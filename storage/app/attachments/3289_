@@ -1,0 +1,52 @@
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=message-id:date:subject:from:to:mime-version
+         :content-transfer-encoding;
+        bh=zV70ar5Y13tCaNfUbDCficX9WQtLnIfOiph7zzufTVM=;
+        b=jV1daQEsKs34eSyvu6ZAOUlkzNKJaNK6yeEmeJmtDZgzCAIujyoQK45v2TSFk5Jyf8
+         oZiMgNiNQkZJ61O6KWGie81LIqQKIvofpncCxjSD9nPXPQzJLxZ0bQFXvu/32QZXPwm7
+         e7NmZKvXX6sFG0YFyJ69jbzAP9zCmV+c85HGDAZgTg12anCcDEKL6nDc2y2g5/tayoKr
+         9Vg9E0xLBS+2J5KSDs21BSEIjsWl8Zqa53wqi0+UgD2w7GfWCfMFw+yrQ8Fi2UzTYdi8
+         m5ahop1IYr1fU81PRgkOhqFoms15hhQEoijGiI2n19mb7UdpzV3feZUa3+jCB7mEltlM
+         zIiw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:message-id:date:subject:from:to:mime-version
+         :content-transfer-encoding;
+        bh=zV70ar5Y13tCaNfUbDCficX9WQtLnIfOiph7zzufTVM=;
+        b=HX6hoTNK1ZjcI+71/V/p4ksKPpj/4fW3ihj+CBYo4uRdZ8+njEblzgMLmsXN9ZIX0k
+         SIbVuf5TAKdOjeAjJaE1WURHG3oa7WHNwXIj6WDRTDIPIySDAgfHgimHIgPftPRk0sdk
+         W/+47+jJK6/DXzZB6LE6w+NsSIJRAyHg37uo3ZM0XTQan4LFbvoh61eueT0aMl0E4XNG
+         RtLiBmnBCzz6t0UINBi/2rEzN67pmsrPrcsRHyf16FdtTer7wdJjI73GNsF4Mkger6om
+         mVgcRvblrpRR4PKn1CseP6opFPJ2Z8KNfwRDiAzsSX3g9bKS9dPfbUecaiRdqjz0Qum2
+         Ojbg==
+X-Gm-Message-State: AOAM530juo8NwUpGmapMX0gQecY2shAxlauwKECse22AygcfMFLUb+JZ
+	HYfvbbPVaCOkgf67VbTMSWoPXQRypNN3aPvwBMQ=
+X-Google-Smtp-Source: ABdhPJygwXvb73ERdNHVUbVMHkTZcmm5dgqk13Sn4+wSQYIHB9ar9JNWhWyq9oGZ4TNcvqYXHcNyBQ==
+X-Received: by 2002:ac8:4308:: with SMTP id z8mr7636585qtm.121.1632858983409;
+        Tue, 28 Sep 2021 12:56:23 -0700 (PDT)
+Return-Path: <leonardo.fgr@gmail.com>
+Received: from localhost (181-162-118-137.baf.movistar.cl. [181.162.118.137])
+        by smtp.gmail.com with ESMTPSA id x3sm65248qkl.107.2021.09.28.12.56.22
+        for <no-reply@sentry.io>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 28 Sep 2021 12:56:23 -0700 (PDT)
+Message-ID: <b2f65bcc5aa187308426e94579190e39@localhost>
+Date: Tue, 28 Sep 2021 19:56:21 +0000
+Subject: Notice: Updated DPA with New SCCs now available[#AAAA-0000-0008]
+From: Leonardo Figueroa <leonardo.fgr@gmail.com>
+To: "" <no-reply@sentry.io>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<div><span>Hello <br/><br/></span><span>Thank you for contacting us. This i=
+s an automated response confirming the receipt of your ticket. Our team wil=
+l get back to you as soon as possible. When replying, please make sure that=
+ the ticket ID is kept in the subject so that we can track your replies.<br=
+/><br/></span><span><b>Ticket ID:</b> AAAA-0000-0008=C2=A0<br/><br/></span>=
+<span> <br/></span>You can check the status of or update this ticket online=
+ at: http://localhost:8888/faveo/public/check_ticket/eyJpdiI6ImFLU3VtTk5GR3=
+pCeFpUNHVSeVowcnc9PSIsInZhbHVlIjoieEZjMEhNSENOUGcxYkFZXC9cL2YzUnF3PT0iLCJtY=
+WMiOiJjMjFjNDBiODMxN2FjMGRlNjllZmIzNmU1OTMxYjYxZjUwYmY4YWY1MWYyZTU2ZTJkMzI1=
+MDcyMzNmNGRlMWU1In0=3D</div>
